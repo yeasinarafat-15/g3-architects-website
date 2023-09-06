@@ -84,9 +84,6 @@ main{
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
 }
-.teams-img-container img{
-    /* width: 100%; */
-}
 .teams-content{
     padding-right: 70px;
     padding-left: 70px;
@@ -168,9 +165,6 @@ main{
     color: #424242;
     margin-top: 10px;
     margin-bottom: 10px;
-}
-.card .card-stats{
-
 }
 /* Sponsors Styles */
 .sponsors{
